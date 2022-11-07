@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 80vh;
+	font-family: 'Comic Neue', cursive, sans-serif;
+	background: radial-gradient(circle, rgb(34, 210, 219) 13%, rgb(29, 155, 144) 65%);
+}
